@@ -13,7 +13,6 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   <a href="https://hits.sh/dengtq.gitlab.io/homepage/"><img alt="Hits" src="https://hits.sh/dengtq.gitlab.io/homepage.svg?style=flat-square&label=Views&color=007ec6&labelColor=9f9f9f"/></a>
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: semiconductor, thermoelectric, density functional theory, electrons, phonons, defects # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚡️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
