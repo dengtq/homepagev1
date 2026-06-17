@@ -1,14 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - dengtq
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - dengtq/epicstar
+  - dengtq/data-published
+  - masato1122/auto-kappa
